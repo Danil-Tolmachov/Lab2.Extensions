@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pacma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab2\\Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9238E3-6641-4B96-9EC4-8BF93C3817C8}|Lab2\\Lab2.csproj|c:\\users\\pacma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab2\\lab2\\lab2\\extendeddictionary\\extendeddictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9238E3-6641-4B96-9EC4-8BF93C3817C8}|Lab2\\Lab2.csproj|solutionrelative:lab2\\extendeddictionary\\extendeddictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369EA4AF-ECD0-436F-A4B0-41A53329F389}|Tests\\Tests.csproj|c:\\users\\pacma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab2\\lab2\\tests\\extendeddictionarytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369EA4AF-ECD0-436F-A4B0-41A53329F389}|Tests\\Tests.csproj|solutionrelative:tests\\extendeddictionarytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369EA4AF-ECD0-436F-A4B0-41A53329F389}|Tests\\Tests.csproj|c:\\users\\pacma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab2\\lab2\\tests\\extensions\\arrayextensiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369EA4AF-ECD0-436F-A4B0-41A53329F389}|Tests\\Tests.csproj|solutionrelative:tests\\extensions\\arrayextensiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9238E3-6641-4B96-9EC4-8BF93C3817C8}|Lab2\\Lab2.csproj|c:\\users\\pacma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab2\\lab2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9238E3-6641-4B96-9EC4-8BF93C3817C8}|Lab2\\Lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9238E3-6641-4B96-9EC4-8BF93C3817C8}|Lab2\\Lab2.csproj|c:\\users\\pacma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab2\\lab2\\lab2\\extensions\\arrayextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9238E3-6641-4B96-9EC4-8BF93C3817C8}|Lab2\\Lab2.csproj|solutionrelative:lab2\\extensions\\arrayextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9238E3-6641-4B96-9EC4-8BF93C3817C8}|Lab2\\Lab2.csproj|c:\\users\\pacma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab2\\lab2\\lab2\\extensions\\stringextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9238E3-6641-4B96-9EC4-8BF93C3817C8}|Lab2\\Lab2.csproj|solutionrelative:lab2\\extensions\\stringextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369EA4AF-ECD0-436F-A4B0-41A53329F389}|Tests\\Tests.csproj|c:\\users\\pacma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab2\\lab2\\tests\\extensions\\stringextensiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369EA4AF-ECD0-436F-A4B0-41A53329F389}|Tests\\Tests.csproj|solutionrelative:tests\\extensions\\stringextensiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExtendedDictionaryTests.cs",
+              "DocumentMoniker": "C:\\Users\\pacma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab2\\Lab2\\Tests\\ExtendedDictionaryTests.cs",
+              "RelativeDocumentMoniker": "Tests\\ExtendedDictionaryTests.cs",
+              "ToolTip": "C:\\Users\\pacma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab2\\Lab2\\Tests\\ExtendedDictionaryTests.cs",
+              "RelativeToolTip": "Tests\\ExtendedDictionaryTests.cs",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAQwM0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:55:45.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExtendedDictionary.cs",
+              "DocumentMoniker": "C:\\Users\\pacma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab2\\Lab2\\Lab2\\ExtendedDictionary\\ExtendedDictionary.cs",
+              "RelativeDocumentMoniker": "Lab2\\ExtendedDictionary\\ExtendedDictionary.cs",
+              "ToolTip": "C:\\Users\\pacma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab2\\Lab2\\Lab2\\ExtendedDictionary\\ExtendedDictionary.cs",
+              "RelativeToolTip": "Lab2\\ExtendedDictionary\\ExtendedDictionary.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA0wD8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:42:42.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArrayExtensionTests.cs",
+              "DocumentMoniker": "C:\\Users\\pacma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab2\\Lab2\\Tests\\Extensions\\ArrayExtensionTests.cs",
+              "RelativeDocumentMoniker": "Tests\\Extensions\\ArrayExtensionTests.cs",
+              "ToolTip": "C:\\Users\\pacma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab2\\Lab2\\Tests\\Extensions\\ArrayExtensionTests.cs",
+              "RelativeToolTip": "Tests\\Extensions\\ArrayExtensionTests.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:19:34.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StringExtensionTests.cs",
+              "DocumentMoniker": "C:\\Users\\pacma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab2\\Lab2\\Tests\\Extensions\\StringExtensionTests.cs",
+              "RelativeDocumentMoniker": "Tests\\Extensions\\StringExtensionTests.cs",
+              "ToolTip": "C:\\Users\\pacma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab2\\Lab2\\Tests\\Extensions\\StringExtensionTests.cs",
+              "RelativeToolTip": "Tests\\Extensions\\StringExtensionTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:18:56.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArrayExtension.cs",
+              "DocumentMoniker": "C:\\Users\\pacma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab2\\Lab2\\Lab2\\Extensions\\ArrayExtension.cs",
+              "RelativeDocumentMoniker": "Lab2\\Extensions\\ArrayExtension.cs",
+              "ToolTip": "C:\\Users\\pacma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab2\\Lab2\\Lab2\\Extensions\\ArrayExtension.cs",
+              "RelativeToolTip": "Lab2\\Extensions\\ArrayExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:11:28.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StringExtension.cs",
+              "DocumentMoniker": "C:\\Users\\pacma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab2\\Lab2\\Lab2\\Extensions\\StringExtension.cs",
+              "RelativeDocumentMoniker": "Lab2\\Extensions\\StringExtension.cs",
+              "ToolTip": "C:\\Users\\pacma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab2\\Lab2\\Lab2\\Extensions\\StringExtension.cs",
+              "RelativeToolTip": "Lab2\\Extensions\\StringExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:03:51.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pacma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab2\\Lab2\\Lab2\\Program.cs",
+              "RelativeDocumentMoniker": "Lab2\\Program.cs",
+              "ToolTip": "C:\\Users\\pacma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab2\\Lab2\\Lab2\\Program.cs",
+              "RelativeToolTip": "Lab2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:02:40.911Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
