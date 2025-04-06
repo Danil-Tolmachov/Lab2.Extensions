@@ -101,7 +101,7 @@ public static class Program
                        where name.Any(Char.IsWhiteSpace)
                        select name;
 
-        Console.WriteLine("Elements containing spaces in array 'A':");
+        Console.WriteLine("1. Elements containing spaces in array 'A':");
         foreach (var A in A_Spaces)
         {
             Console.WriteLine("".PadRight(3) + A);
@@ -118,7 +118,7 @@ public static class Program
         {
             res += element.ToString() + " ";
         }
-        Console.WriteLine($"\n\nNegative elements in array 'B': {res}");
+        Console.WriteLine($"\n\n2. Negative elements in array 'B': {res}");
 
 
         // Find Green color
@@ -131,7 +131,7 @@ public static class Program
         {
             res += element + ", ";
         }
-        Console.WriteLine($"\n\nAll shades of green in array 'C': {res}");
+        Console.WriteLine($"\n\n3. All shades of green in array 'C': {res}");
 
 
         // Select only BMW from the list
@@ -139,7 +139,7 @@ public static class Program
                    where car.Brand == "BMW"
                    select car;
 
-        Console.WriteLine("\n\nOnly BMWs are selected from an instance of the 'Car' class:");
+        Console.WriteLine("\n\n4. Only BMWs are selected from an instance of the 'Car' class:");
         foreach (var car in cars)
         {
             Console.WriteLine("".PadRight(3) + $"Brand: {car.Brand }, Top speed: {car.MaxSpeed} km/h, Number of passengers: {car.NumberOfSeats}");
@@ -151,7 +151,7 @@ public static class Program
                        where product.CountInStorage == 0
                        select product;
 
-        Console.WriteLine("\n\nOnly out of stock items are selected from an instance of the 'Product' class:");
+        Console.WriteLine("\n\n5. Only out of stock items are selected from an instance of the 'Product' class:");
         foreach (var product in products)
         {
             Console.WriteLine("".PadRight(3) + $"Item: {product.Name}, Description: {product.Description}, In Storage: {product.CountInStorage}");
@@ -169,6 +169,6 @@ public static class Program
         {
             res += car + ", ";
         }
-        Console.WriteLine($"\n\nFrom the arrays 'myCars' and 'yourCars' only similar car brands are selected: {res}\n\n");
+        Console.WriteLine($"\n\n6. From the arrays 'myCars' and 'yourCars' only similar car brands are selected: {res}\n\n");
     }
 }

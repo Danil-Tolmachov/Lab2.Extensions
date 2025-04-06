@@ -5,7 +5,7 @@ namespace Tests.Extensions;
 public class StringExtensionTests
 {
     [Theory]
-    [InlineData("too many word here", "ereh drow ynam oot")]
+    [InlineData("too many words here", "ereh sdrow ynam oot")]
     public void Reverse_Works(string input, string expected)
     {
         // Act 
